@@ -1,3 +1,5 @@
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F7B32B&center=true&width=435&lines=Hello!+I'm+Utkarsh+Tiwari;Welcome+to+my+GitHub+profile;I+love+AI+%26+Machine+Learning!)
+
 <h1 align="center">Hi 👋, I'm Utkarsh Tiwari</h1>
 <h3 align="center">A passionate AI developer from India</h3>
 
