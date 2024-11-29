@@ -6,6 +6,8 @@
 - 📫 How to reach me **utkarshtiwar89@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11cpkbafEAgaqimr1psM_0rObEIuAhkfw/view?usp=sharing](https://drive.google.com/file/d/11cpkbafEAgaqimr1psM_0rObEIuAhkfw/view?usp=sharing)
+- [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)]([https://github.com/username/repository/raw/main/resume.pdf](https://drive.google.com/file/d/11cpkbafEAgaqimr1psM_0rObEIuAhkfw/view?usp=sharing))
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
