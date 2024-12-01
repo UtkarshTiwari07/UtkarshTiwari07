@@ -6,14 +6,14 @@
 - 📫 How to reach me **utkarshtiwar89@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11cpkbafEAgaqimr1psM_0rObEIuAhkfw/view?usp=sharing](https://drive.google.com/file/d/11cpkbafEAgaqimr1psM_0rObEIuAhkfw/view?usp=sharing)
-- [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)]((https://drive.google.com/file/d/11cpkbafEAgaqimr1psM_0rObEIuAhkfw/view?usp=sharing))
+- [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)][(https://drive.google.com/file/d/11cpkbafEAgaqimr1psM_0rObEIuAhkfw/view?usp=sharing)]
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarsh-tiwari-174212216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-tiwari-174212216/" height="30" width="40" /></a>
 </p>
-![Coding](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
