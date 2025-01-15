@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **utkarshtiwar89@gmail.com**
 
-- [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](https://drive.google.com/file/d/11cpkbafEAgaqimr1psM_0rObEIuAhkfw/view?usp=sharing)
+- [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](https://drive.google.com/file/d/1034IiyU3RAsPTIckjt1EVViYFBI_Xae5/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
