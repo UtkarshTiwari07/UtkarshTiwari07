@@ -28,9 +28,8 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░ CONNECT ░░░░░░░░░░░░░░░░░░ -->
 
-## 🤝 &nbsp;Let's Build Something
-
-<div align="left">
+ 
+<div align="center">
 
 <a href="https://utkarshtiwariai.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-F7B32B?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
