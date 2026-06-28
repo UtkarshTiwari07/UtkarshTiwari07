@@ -26,6 +26,27 @@
 
 </div>
 
+<!-- ░░░░░░░░░░░░░░░░░░ CONNECT ░░░░░░░░░░░░░░░░░░ -->
+
+## 🤝 &nbsp;Let's Build Something
+
+<div align="left">
+
+<a href="https://utkarshtiwariai.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-F7B32B?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/utkarshtiwariai/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:utkarshtiwar89@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://drive.google.com/file/d/1sAYhFu04W9V3o5mLgW3w2AuiTRbTThHN/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Résumé-View-2ea44f?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
+</a>
+
+</div>
+
 <!-- ░░░░░░░░░░░░░░░░░░ POSITIONING ░░░░░░░░░░░░░░░░░░ -->
 
 > ### 🎙️ AI Engineer specializing in **real-time Voice AI** and **custom AI systems built to scale**.
