@@ -1,18 +1,171 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F7B32B&center=true&width=435&lines=Hello!+I'm+Utkarsh+Tiwari;Welcome+to+my+GitHub+profile;I+love+AI+%26+Machine+Learning!)
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║   Utkarsh Tiwari · GitHub Profile README                       ║
+  ║   Drop this into your profile repo: UtkarshTiwari07/UtkarshTiwari07
+  ║   (rename to README.md)                                        ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
 
+<!-- ░░░░░░░░░░░░░░░░░░ HERO BANNER ░░░░░░░░░░░░░░░░░░ -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshtiwari07&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshtiwari07" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:F7B32B&height=200&section=header&text=Utkarsh%20Tiwari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Machine%20Learning%20Engineer&descSize=20&descAlignY=60" alt="header"/>
 
-- 📫 How to reach me **utkarshtiwar89@gmail.com**
+<!-- Animated typing tagline -->
+<a href="https://github.com/UtkarshTiwari07">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=F7B32B&center=true&vCenter=true&width=600&lines=Teaching+machines+to+think%2C+one+model+at+a+time;Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+MLOps;Turning+data+into+decisions+%F0%9F%A7%A0" alt="Typing SVG" />
+</a>
 
-- [![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge)](https://drive.google.com/file/d/1sAYhFu04W9V3o5mLgW3w2AuiTRbTThHN/view?usp=sharing)
+<br/>
 
+<!-- Profile views + followers + small badges -->
+<img src="https://komarev.com/ghpvc/?username=utkarshtiwari07&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<a href="https://github.com/UtkarshTiwari07?tab=followers">
+  <img src="https://img.shields.io/github/followers/UtkarshTiwari07?label=Followers&style=for-the-badge&color=F7B32B" alt="followers" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/utkarsh-tiwari-174212216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarsh-tiwari-174212216/" height="30" width="40" /></a>
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░░░ ABOUT ░░░░░░░░░░░░░░░░░░ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;About Me
+
+<img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+
+```python
+class UtkarshTiwari:
+    def __init__(self):
+        self.role      = "AI / Machine Learning Engineer"
+        self.company   = "Bigship"
+        self.focus     = ["Deep Learning", "Computer Vision", "NLP", "MLOps"]
+        self.languages = ["Python", "C", "Java"]
+        self.stack     = ["PyTorch", "TensorFlow", "scikit-learn",
+                          "Django", "Flask", "OpenCV"]
+        self.mindset   = "Always learning, always shipping 🚀"
+
+    def current_goal(self):
+        return "Building intelligent systems that solve real problems"
+```
+
+- 🧠 &nbsp;I build and deploy **ML models** — from data pipelines to production APIs
+- 🔭 &nbsp;Currently working on **AI-driven systems** at **Bigship**
+- 🌱 &nbsp;Exploring **LLMs, generative AI, and scalable MLOps**
+- 💬 &nbsp;Ask me about **Python, Deep Learning, Computer Vision & backend ML**
+- ⚡ &nbsp;Fun fact: I believe the best model is the one that actually ships
+
+<br clear="right"/>
+
+<!-- ░░░░░░░░░░░░░░░░░░ CONNECT ░░░░░░░░░░░░░░░░░░ -->
+
+## 🤝 &nbsp;Connect With Me
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/utkarsh-tiwari-174212216/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:utkarshtiwar89@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://drive.google.com/file/d/1sAYhFu04W9V3o5mLgW3w2AuiTRbTThHN/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View-2ea44f?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
+</a>
+
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░ -->
+
+## 🛠️ &nbsp;Tech Stack & Tools
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🤖 AI / ML**
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
+**💻 Languages**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,bash" />
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+**🌐 Backend & Web**
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask" />
+</p>
+
+**🗄️ Databases & DevOps**
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,heroku,docker,linux" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- ░░░░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░░░░ -->
+
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UtkarshTiwari07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F7B32B&icon_color=0e75b6" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshTiwari07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7B32B&langs_count=8" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshTiwari07&theme=tokyonight&hide_border=true&background=0D1117&ring=F7B32B&fire=F7B32B&currStreakLabel=0e75b6" alt="streak" />
+
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░░ -->
+
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=UtkarshTiwari07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░░░ ACTIVITY GRAPH ░░░░░░░░░░░░░░░░░░ -->
+
+## 📈 &nbsp;Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=UtkarshTiwari07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F7B32B&line=0e75b6&point=ffffff" alt="activity graph" />
+
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░░░ QUOTE ░░░░░░░░░░░░░░░░░░ -->
+
+## 💡 &nbsp;Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+### ✨ Thanks for stopping by — let's build something intelligent together!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F7B32B,100:0e75b6&height=120&section=footer" alt="footer"/>
+
+</div>
