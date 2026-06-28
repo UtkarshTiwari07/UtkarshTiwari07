@@ -13,7 +13,7 @@
 
 <!-- Animated typing tagline -->
 <a href="https://utkarshtiwariai.vercel.app">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2900&pause=900&color=F7B32B&center=true&vCenter=true&width=640&lines=I+build+voice+AI+that+survives+production+traffic;Custom+AI+systems+that+solve+real+business+problems;Sub-400ms+agents+%C2%B7+10%2C000%2B+calls%2Fday+%C2%B7+13+clients;I+ship+the+thing%2C+then+I+make+it+fast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2900&pause=900&color=F7B32B&center=true&vCenter=true&width=820&height=55&lines=I+build+voice+AI+that+survives+production+traffic;Custom+AI+systems+that+solve+real+business+problems;Sub-400ms+agents+%C2%B7+10%2C000%2B+calls%2Fday+%C2%B7+13+clients;I+ship+the+thing%2C+then+I+make+it+fast" alt="Typing SVG" />
 </a>
 
 <br/>
